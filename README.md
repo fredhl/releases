@@ -1,37 +1,16 @@
-# release_vers
-
 #### 介绍
 发布二进制文件，用于测试及工程版本
 
-#### 软件架构
-软件架构说明
+关于版本号，添加了不同厂商显示不同版本号功能，版本号由MAJOR.MINOR.BUILDNUM组成，具体显示出的版本号为
+CTN-AUVMAJOR + 1. MINOR + 1. BUILDNUM
+BJXS-AUvMAJOR + 2. MINOR + 2. BUILDNUM
+ETERN-MAJOR.MINOR.BUILDNUM
+以下版本号发布以“MAJOR.MINOR.BUILDNUM”为原始版本号作记录.
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 版本号及更新内容
+版本号：  
+	AU ： V1.2.64  (三种制式版本号相同)
+	900M RU：V9.2.37  
+	2100M RU：V21.2.40  
+	双模1.8+2.1G RU: V7.2.9033  
+单独升级ppp下的脚本将无法拨号成功。需配合最新d程序升级 ，本次升级主要在之前的基础上修改优化近端拨号过程，远端读取功放功率恢复成实时读取.
